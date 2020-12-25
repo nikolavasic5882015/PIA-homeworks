@@ -1,0 +1,42 @@
+var jsQuestions = [
+  {
+    title: "How long is the first Harry Potter movie: Harry Potter and The Philosopher's Stone?",
+    choices: ["1.5 hours", "2.5 hours", "3.5 hours", "4.5 hours"],
+    answer: "2.5 hours"
+  },
+  {
+    title: "What is Dorothy's surname in The Wizard of Oz?",
+    choices: ["Bale", "Gale", "Hale", "Yale"],
+    answer: "Gale"
+  },
+  {
+    title: "In which form did 'The Jungle Book' originally appear?",
+    choices: ["Book", "Film", "Radio play", "An app"],
+    answer: "Book"
+  },
+  {
+    title: "In which country was actor Russell Crowe born?",
+    choices: ["USA", "Australia", "New Zealand", "Canada"],
+    answer: "New Zealand"
+  },
+  {
+    title: "Who holds the record of 14 nominations for Worst Actor at the Razzies?",
+    choices: ["Arnold Schwarzenegger", "Sylvester Stallone", "Nicolas Cage", "Kevin Costner"],
+    answer: "Sylvester Stallone"
+  },
+  {
+    title: "What is the correct title of the 2009 film starring Zooey Deschanel??",
+    choices: ["100 days of summer", "200 days of summer", "500 days of summer", "1000 days of summer"],
+    answer: "500 days of summer"
+  },
+  {
+    title: "Who plays a character named Lee Christmas in 'The Expendables' series of films?",
+    choices: ["Jason Statham", "Jet Li", "Sylvester Stallone", "Arnold Schwarzenegger"],
+    answer: "Jason Statham"
+  },
+  {
+    title: "Who was offered and turned down the part of Han Solo in the original Star Wars film?",
+    choices: ["Sylvester Stallone", "Al Pacino", "Bruce Willis", "Roger Moore"],
+    answer: "Al Pacino"
+  },
+];
